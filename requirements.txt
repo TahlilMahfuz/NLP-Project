@@ -1,0 +1,13 @@
+datasets
+kagglehub
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+ollama
+sacrebleu
+rouge-score
+bert-score
+medcon
+matplotlib
+seaborn
