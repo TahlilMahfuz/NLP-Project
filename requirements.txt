@@ -11,3 +11,9 @@ bert-score
 medcon
 matplotlib
 seaborn
+cerebras-cloud-sdk
+torch
+torchvision
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
+dotenv
+logger
